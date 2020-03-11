@@ -1,0 +1,11 @@
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\bin\Debug\netcoreapp3.1\Name_Sorter.exe
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\bin\Debug\netcoreapp3.1\Name_Sorter.deps.json
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\bin\Debug\netcoreapp3.1\Name_Sorter.runtimeconfig.json
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\bin\Debug\netcoreapp3.1\Name_Sorter.runtimeconfig.dev.json
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\bin\Debug\netcoreapp3.1\Name_Sorter.dll
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\bin\Debug\netcoreapp3.1\Name_Sorter.pdb
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\obj\Debug\netcoreapp3.1\Name_Sorter.csprojAssemblyReference.cache
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\obj\Debug\netcoreapp3.1\Name_Sorter.AssemblyInfoInputs.cache
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\obj\Debug\netcoreapp3.1\Name_Sorter.AssemblyInfo.cs
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\obj\Debug\netcoreapp3.1\Name_Sorter.dll
+C:\Users\Witantra Anugrah\Project\Test\Name_Sorter\obj\Debug\netcoreapp3.1\Name_Sorter.pdb
